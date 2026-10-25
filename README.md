@@ -13,6 +13,13 @@ SpendSense is a full-stack personal finance application that helps users track i
 - Review recent transactions
 - Interactive, responsive dashboard
 
+
+## Screenshots
+
+![SpendSense Dashboard](screenshots/dashboard1.png)
+![SpendSense Dashboard](screenshots/dashboard2.png)
+![SpendSense Dashboard](screenshots/dashboard3.png)
+
 ## Tech Stack
 
 **Frontend**
