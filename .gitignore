@@ -1,0 +1,58 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Local databases and database backups
+*.sqlite3
+*.db
+*.dump
+*.bak
+backups/
+
+# Personal financial data — never commit real statements
+personal_statements/
+private_data/
+*.bank.csv
+*.statement.csv
+
+# Logs and temporary files
+*.log
+logs/
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local test coverage
+.coverage
+htmlcov/
+
+# Common credential and secret files
+credentials.json
+service-account*.json
+secrets.*
+*credentials*
+*secret*
+*.pem
+*.key
